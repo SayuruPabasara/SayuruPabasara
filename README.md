@@ -1,6 +1,5 @@
-## Hi there 👋
-
-<h3 align="center">A passionate frontend developer from India</h3>
+## Hi there👋 I'm Sayuru Pabasara Eragoda.
+### Embracing the challenge of mastering new digital skills. Building technical proficiency in a rapidly evolving landscape.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
