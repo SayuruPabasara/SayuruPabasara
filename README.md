@@ -1,5 +1,5 @@
 ## Hi there👋 I'm Sayuru Pabasara Eragoda.
-<p align="justify">A passionate IT Undergraduate student Building technical proficiency in a rapidly evolving landscape. Embracing the challenge of mastering new digital skills.</p>
+<p align="justify">A passionate IT Undergraduate student Building technical proficiency in a rapidly evolving landscape. Embracing the challenge of mastering new digital skills!</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
