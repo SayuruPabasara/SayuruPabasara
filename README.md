@@ -1,7 +1,6 @@
 ## Hi there👋 I'm Sayuru Pabasara Eragoda.
 
 <p>
-  <img src="Web Development.gif" alt="Web Development GIF" width="value" height="value" align="right" />
   An IT Undergraduate student.<br>
 </p>
 
