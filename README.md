@@ -5,5 +5,5 @@
 </p>
  <div align=center>
         <a href="https://www.linkedin.com/in/sayuru-eragoda-6213593a5/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a> 
-   <a ><img src="https://img.shields.io/badge/WhatsApp-25D366?link=https%3A%2F%2Fwa.me%2F%2B94%2076%20442%208557"/></a>
+        <a href="https://wa.me/+94764428557"><img src="https://img.shields.io/badge/WhatsApp-25D366?link=https%3A%2F%2Fwa.me%2F%2B94%2076%20442%208557"/></a>
     </div>
