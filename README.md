@@ -15,7 +15,7 @@ Software Developer passionate about Artificial Intelligence, Data Science, and e
 
 ### ⚒️Tech Stack & Tools
 
-*   **Languages:** Java, Python, JavaScript
+*   **Languages:** Java, Python, JavaScript, SQL
 *   **Frontend:** CSS, React 
 *   **Backend & Tools:** Git/Github, Linux/Terminal
 
