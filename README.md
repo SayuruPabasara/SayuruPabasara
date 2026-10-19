@@ -10,6 +10,7 @@ Software Developer passionate about Artificial Intelligence, Data Science, and e
 ### 🔮My Projects
 
 * [ParkNow](https://github.com/Academic-Projects-SLIIT/ParkNow-Vehicle-parking-management-system): a modern and intuitive parking management platform built to simplify the way drivers book parking spaces and help administrators manage operations efficiently.
+* [AwardHub](https://github.com/SayuruPabasara/AwardHub): Web-based voting management system for Award Nominations
 
 ---
 
