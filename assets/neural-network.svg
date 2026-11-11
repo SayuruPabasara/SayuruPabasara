@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="270" viewBox="0 0 1000 270" fill="none">
+<rect width="1000" height="270" rx="16" fill="#0B1019"/>
+<g font-family="monospace" fill="#8290A5" font-size="11" letter-spacing="2"><text x="28" y="29">01 / NEURAL NETWORK</text><text x="972" y="29" text-anchor="end">SIGNAL PROPAGATION</text></g>
+<g stroke="#65DCEB" stroke-opacity=".38" stroke-width="1.5">
+<path d="M120 132L310 65M120 132L310 132M120 132L310 199M310 65L520 52M310 65L520 132M310 132L520 52M310 132L520 132M310 132L520 210M310 199L520 132M310 199L520 210M520 52L790 95M520 132L790 95M520 132L790 176M520 210L790 176"/>
+</g>
+<g fill="#101D2A" stroke="#69DCEB" stroke-width="2">
+<circle cx="120" cy="132" r="16"/><circle cx="310" cy="65" r="11"/><circle cx="310" cy="132" r="11"/><circle cx="310" cy="199" r="11"/>
+<circle cx="520" cy="52" r="10"/><circle cx="520" cy="132" r="10"/><circle cx="520" cy="210" r="10"/><circle cx="790" cy="95" r="14"/><circle cx="790" cy="176" r="14"/>
+</g>
+<g fill="#B8F7FA">
+<circle cx="120" cy="132" r="4"><animate attributeName="opacity" values=".2;1;.2" dur="1.8s" repeatCount="indefinite"/></circle>
+<circle cx="310" cy="65" r="3"><animate attributeName="opacity" values=".2;1;.2" dur="2.2s" repeatCount="indefinite"/></circle>
+<circle cx="310" cy="132" r="3"><animate attributeName="opacity" values=".2;1;.2" dur="1.6s" repeatCount="indefinite"/></circle>
+<circle cx="310" cy="199" r="3"><animate attributeName="opacity" values=".2;1;.2" dur="2.5s" repeatCount="indefinite"/></circle>
+<circle cx="520" cy="52" r="3"><animate attributeName="opacity" values=".2;1;.2" dur="2s" repeatCount="indefinite"/></circle>
+<circle cx="520" cy="132" r="3"><animate attributeName="opacity" values=".2;1;.2" dur="1.7s" repeatCount="indefinite"/></circle>
+<circle cx="520" cy="210" r="3"><animate attributeName="opacity" values=".2;1;.2" dur="2.4s" repeatCount="indefinite"/></circle>
+<circle cx="790" cy="95" r="4"><animate attributeName="opacity" values=".2;1;.2" dur="2.1s" repeatCount="indefinite"/></circle>
+<circle cx="790" cy="176" r="4"><animate attributeName="opacity" values=".2;1;.2" dur="1.9s" repeatCount="indefinite"/></circle>
+</g>
+<g fill="#78869B" font-family="monospace" font-size="10"><text x="120" y="168" text-anchor="middle">INPUT</text><text x="310" y="238" text-anchor="middle">HIDDEN LAYER</text><text x="520" y="249" text-anchor="middle">FEATURES</text><text x="790" y="211" text-anchor="middle">OUTPUT</text></g>
+<circle r="4" fill="#FFFFFF"><animateMotion dur="4s" repeatCount="indefinite" path="M120 132L310 65L520 132L790 95"/></circle>
+<circle r="3" fill="#A394FF"><animateMotion dur="4.8s" begin="1s" repeatCount="indefinite" path="M120 132L310 199L520 210L790 176"/></circle>
+</svg>

@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" fill="none">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse"><stop stop-color="#080C12"/><stop offset="1" stop-color="#111827"/></linearGradient>
+ <linearGradient id="accent" x1="720" y1="60" x2="1120" y2="300" gradientUnits="userSpaceOnUse"><stop stop-color="#65DCEB"/><stop offset="1" stop-color="#9B8CFF"/></linearGradient>
+ <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse"><path d="M34 0H0V34" stroke="#AAB8CC" stroke-opacity=".075"/></pattern>
+ <filter id="glow" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1200" height="360" rx="18" fill="url(#bg)"/><rect width="1200" height="360" rx="18" fill="url(#grid)"/>
+<g font-family="ui-monospace, SFMono-Regular, Menlo, monospace">
+ <text x="64" y="62" fill="#7E8CA1" font-size="12" letter-spacing="3">NEURAL / 01 — PERSONAL INTELLIGENCE LAB</text>
+ <text x="62" y="151" fill="#F1F5F9" font-size="48" font-weight="700" letter-spacing="-1.4">SAYURU ERAGODA</text>
+ <text x="65" y="190" fill="#71DDE8" font-size="16" letter-spacing="3">AI  /  DATA SCIENCE  /  SOFTWARE</text>
+ <text x="65" y="234" fill="#AAB5C5" font-size="14">Exploring ideas. Building useful systems. Learning continuously.</text>
+ <path d="M64 277H1136" stroke="#718096" stroke-opacity=".22"/>
+ <text x="65" y="312" fill="#64748B" font-size="11" letter-spacing="2">RESEARCH · BUILD · ITERATE</text>
+ <text x="1135" y="312" fill="#64748B" font-size="11" text-anchor="end">SRI LANKA / LK</text>
+</g>
+<g stroke="url(#accent)" stroke-width="1.5" stroke-opacity=".55">
+ <path d="M790 105L890 70L1000 115L1100 66M790 105L850 215L970 185L1000 115M890 70L970 185L1100 66M850 215L930 285L1060 240L1100 66M970 185L1060 240"/>
+ <path d="M790 105L930 285M890 70L1060 240" stroke-opacity=".2"/>
+</g>
+<g fill="#0D1723" stroke="#70DCEB" stroke-width="2" filter="url(#glow)">
+ <circle cx="790" cy="105" r="5"><animate attributeName="r" values="4;7;4" dur="3.2s" repeatCount="indefinite"/></circle>
+ <circle cx="890" cy="70" r="4"><animate attributeName="r" values="3;6;3" dur="2.7s" repeatCount="indefinite"/></circle>
+ <circle cx="1000" cy="115" r="6"><animate attributeName="r" values="5;8;5" dur="3.5s" repeatCount="indefinite"/></circle>
+ <circle cx="1100" cy="66" r="4"><animate attributeName="r" values="3;6;3" dur="2.9s" repeatCount="indefinite"/></circle>
+ <circle cx="850" cy="215" r="5"><animate attributeName="r" values="4;7;4" dur="3.1s" repeatCount="indefinite"/></circle>
+ <circle cx="970" cy="185" r="7"><animate attributeName="r" values="6;10;6" dur="2.5s" repeatCount="indefinite"/></circle>
+ <circle cx="930" cy="285" r="4"><animate attributeName="r" values="3;6;3" dur="3.4s" repeatCount="indefinite"/></circle>
+ <circle cx="1060" cy="240" r="5"><animate attributeName="r" values="4;7;4" dur="2.8s" repeatCount="indefinite"/></circle>
+</g>
+<circle cx="970" cy="185" r="22" stroke="#9B8CFF" stroke-opacity=".55"><animate attributeName="r" values="18;31;18" dur="4s" repeatCount="indefinite"/><animate attributeName="stroke-opacity" values=".5;.08;.5" dur="4s" repeatCount="indefinite"/></circle>
+<circle r="3.5" fill="#F0FDFF"><animateMotion dur="5s" repeatCount="indefinite" path="M790 105L890 70L1000 115L970 185L1060 240"/></circle>
+</svg>

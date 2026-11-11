@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SayuruPabasara/SayuruPabasara/main/assets/hero.svg" width="100%" alt="Sayuru Eragoda — AI, Data Science and Software" />
+</p>
+
 ## Hi there👋 I'm Sayuru Pabasara Eragoda.
 
 Software Developer passionate about Artificial Intelligence, Data Science, and emerging technologies. Currently pursuing a Bachelor’s degree in Information Technology specializing in Data Science, while continuously expanding my knowledge through learning, research, and hands-on projects. Interested in developing intelligent, data-driven solutions that create meaningful impact.
