@@ -16,7 +16,12 @@ Software Developer passionate about Artificial Intelligence, Data Science, and e
 
 ---
 
-### ⚒️Tech Stack & Tools
+### ⚒️Technical Expertise
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SayuruPabasara/SayuruPabasara/main/assets/technical-domains.svg" width="100%" alt="Technical domains map" />
+</p>
 
 *   **Languages:** Java, Python, JavaScript, SQL
 *   **Frontend:** CSS, React 
