@@ -9,23 +9,21 @@ Software Developer passionate about Artificial Intelligence, Data Science, and e
 
 ---
 
-### 🔮My Projects
+### 🔮Featured Projects
 
-* [ParkNow](https://github.com/Academic-Projects-SLIIT/ParkNow-Vehicle-parking-management-system): a modern and intuitive parking management platform built to simplify the way drivers book parking spaces and help administrators manage operations efficiently.
-* [AwardHub](https://github.com/SayuruPabasara/AwardHub): Web-based voting management system for Award Nominations
+* [ParkNow](https://github.com/Academic-Projects-SLIIT/ParkNow-Vehicle-parking-management-system): a modern and intuitive parking management platform built to simplify the way drivers book parking spaces and help administrators manage operations efficiently. `Vanilla CSS` `JavaScript` `Java` `Spring Boot` `csv persistence`
+* [AwardHub](https://github.com/SayuruPabasara/AwardHub): Web-based voting management system for Award Nominations `React` `Vite` `Java` `Spring Boot` `MySQL`
 
 ---
 
 ### ⚒️Technical Expertise
 
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/SayuruPabasara/SayuruPabasara/main/assets/technical-domains.svg" width="100%" alt="Technical domains map" />
-</p>
-
 *   **Languages:** Java, Python, JavaScript, SQL
-*   **Frontend:** CSS, React 
-*   **Backend & Tools:** Git/Github, Linux/Terminal
+*   **Frontend:** React, CSS 
+*   **Backend:** Java Spring Boot, REST API development
+*   **Databases:** MySQL, SQL 
+*   **AI & Data Science:** AI/ML concepts, LLM integration, Data Science (learning and project exploration)
+*   **Developer Tools:** Git, GitHub, Linux, Terminal
 
 ---
 
@@ -34,7 +32,17 @@ Software Developer passionate about Artificial Intelligence, Data Science, and e
 * BSc (Hons) in Information Technology - Data Science Specialization @ SLIIT *(Ongoing)*
 * Freelance Software Developer *(2025 - Present)*
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/SayuruPabasara/SayuruPabasara/main/assets/neural-network.svg" width="100%" alt="Animated neural network visualization" />
-</p>
+---
 
+### Certifications & Recognition
+
+- **Cisco Networking Academy** — Introduction to Modern AI
+
+### Research & Learning Interests
+
+- Artificial Intelligence and Machine Learning
+- Data Science and predictive analytics
+- Large Language Models and AI integration
+- Intelligent automation
+- Software architecture and backend engineering
+- Linux and developer infrastructure
