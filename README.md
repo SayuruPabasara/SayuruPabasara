@@ -4,8 +4,10 @@
 
 Software Developer passionate about Artificial Intelligence, Data Science, and emerging technologies. Currently pursuing a Bachelor’s degree in Information Technology specializing in Data Science, while continuously expanding my knowledge through learning, research, and hands-on projects. Interested in developing intelligent, data-driven solutions that create meaningful impact.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayuru-eragoda-6213593a5/)
-[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?link=https%3A%2F%2Fwa.me%2F%2B94%2076%20442%208557)](https://wa.me/+94764428557)
+<p align="center">
+  <a href="https://www.linkedin.com/in/sayuru-eragoda-6213593a5/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://wa.me/+94764428557"><img src="https://img.shields.io/badge/WhatsApp-25D366?link=https%3A%2F%2Fwa.me%2F%2B94%2076%20442%208557" alt="WhatsApp"></a>
+</p>
 
 ---
 
