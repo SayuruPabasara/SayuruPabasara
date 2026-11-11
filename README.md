@@ -2,8 +2,6 @@
   <img src="https://raw.githubusercontent.com/SayuruPabasara/SayuruPabasara/main/assets/hero.svg" width="100%" alt="Sayuru Eragoda — AI, Data Science and Software" />
 </p>
 
-## Hi there👋 I'm Sayuru Pabasara Eragoda.
-
 Software Developer passionate about Artificial Intelligence, Data Science, and emerging technologies. Currently pursuing a Bachelor’s degree in Information Technology specializing in Data Science, while continuously expanding my knowledge through learning, research, and hands-on projects. Interested in developing intelligent, data-driven solutions that create meaningful impact.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayuru-eragoda-6213593a5/)
@@ -30,3 +28,8 @@ Software Developer passionate about Artificial Intelligence, Data Science, and e
 
 * BSc (Hons) in Information Technology - Data Science Specialization @ SLIIT *(Ongoing)*
 * Freelance Software Developer *(2025 - Present)*
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SayuruPabasara/SayuruPabasara/main/assets/neural-network.svg" width="100%" alt="Animated neural network visualization" />
+</p>
+
