@@ -36,10 +36,6 @@ Software Developer passionate about Artificial Intelligence, Data Science, and e
 
 ---
 
-### Certifications & Recognition
-
-- **Cisco Networking Academy** — Introduction to Modern AI
-
 ### Research & Learning Interests
 
 - Artificial Intelligence and Machine Learning
