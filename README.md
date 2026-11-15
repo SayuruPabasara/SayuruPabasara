@@ -12,8 +12,9 @@ Software Developer passionate about Artificial Intelligence, Data Science, and e
 
 ### 🔮Featured Projects
 
-* [ParkNow](https://github.com/Academic-Projects-SLIIT/ParkNow-Vehicle-parking-management-system): a modern and intuitive parking management platform built to simplify the way drivers book parking spaces and help administrators manage operations efficiently. <br> `Vanilla CSS` `JavaScript` `Java` `Spring Boot` `csv persistence`
-* [AwardHub](https://github.com/SayuruPabasara/AwardHub): Web-based voting management system for Award Nominations <br> `React` `Vite` `Java` `Spring Boot` `MySQL`
+* [ParkNow](https://github.com/Academic-Projects-SLIIT/ParkNow-Vehicle-parking-management-system): a modern and intuitive parking management platform built to simplify the way drivers book parking spaces and help administrators manage operations efficiently. <br> `CSS` `JavaScript` `Java` `Spring Boot` `csv persistence`
+* [AwardHub](https://github.com/SayuruPabasara/AwardHub): Web-based voting management system for Award Nominations <br> `React` `Vite` `Java` `Spring Boot` `SQL`
+* [Online shoppers' purchase intention prediction](https://github.com/SayuruPabasara/Online-Shopping-Purchase-Intention-Prediction): Trained & evaluated multiple ML models on predicting Customer purchases <br> `Python` `Jupyter Notebook` `Scikit.learn` `pandas` `numpy` `matplotlib`
 
 ---
 
