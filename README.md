@@ -25,7 +25,7 @@ Software Developer passionate about Artificial Intelligence, Data Science, and e
 *   **Frontend:** React, CSS 
 *   **Backend:** Java Spring Boot, REST API development
 *   **Databases:** MySQL, SQL 
-*   **AI & Data Science:** AI/ML concepts, LLM integration, Data Science (learning and project exploration)
+*   **AI & Data Science:** ML, DL & Gen AI Pipelines, Integrations
 *   **Developer Tools:** Git, GitHub, Linux, Terminal
 
 ---
