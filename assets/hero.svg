@@ -7,13 +7,13 @@
 </defs>
 <rect width="1200" height="360" rx="18" fill="url(#bg)"/><rect width="1200" height="360" rx="18" fill="url(#grid)"/>
 <g font-family="ui-monospace, SFMono-Regular, Menlo, monospace">
- <text x="64" y="62" fill="#7E8CA1" font-size="12" letter-spacing="3">NEURAL / 01 — PERSONAL INTELLIGENCE LAB</text>
+ <text x="64" y="62" fill="#7E8CA1" font-size="12" letter-spacing="3">DATA SCIENCE UNDERGRADUATE · SOFTWARE DEVELOPER</text>
  <text x="62" y="151" fill="#F1F5F9" font-size="48" font-weight="700" letter-spacing="-1.4">SAYURU ERAGODA</text>
  <text x="65" y="190" fill="#71DDE8" font-size="16" letter-spacing="3">AI  /  DATA SCIENCE  /  SOFTWARE</text>
- <text x="65" y="234" fill="#AAB5C5" font-size="14">Exploring ideas. Building useful systems. Learning continuously.</text>
+ <text x="65" y="234" fill="#AAB5C5" font-size="14">Building full-stack web systems and applied machine learning workflows.</text>
  <path d="M64 277H1136" stroke="#718096" stroke-opacity=".22"/>
- <text x="65" y="312" fill="#64748B" font-size="11" letter-spacing="2">RESEARCH · BUILD · ITERATE</text>
- <text x="1135" y="312" fill="#64748B" font-size="11" text-anchor="end">SRI LANKA / LK</text>
+ <text x="65" y="312" fill="#64748B" font-size="11" letter-spacing="2">SLIIT · DATA SCIENCE SPECIALIZATION</text>
+ <text x="1135" y="312" fill="#64748B" font-size="11" text-anchor="end">COLOMBO, SRI LANKA</text>
 </g>
 <g stroke="url(#accent)" stroke-width="1.5" stroke-opacity=".55">
  <path d="M790 105L890 70L1000 115L1100 66M790 105L850 215L970 185L1000 115M890 70L970 185L1100 66M850 215L930 285L1060 240L1100 66M970 185L1060 240"/>
