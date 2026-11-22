@@ -8,6 +8,12 @@
   <img src="https://img.shields.io/badge/Colombo%2C%20Sri%20Lanka-111827?style=flat-square&logo=googlemaps&logoColor=65DCEB" alt="Colombo, Sri Lanka" />
 </p>
 
+<p align="center">
+  <a href="#featured-projects">Featured Projects</a> ·
+  <a href="#technical-skills">Technical Skills</a> ·
+  <a href="#background">Background</a>
+</p>
+
 I am a Data Science undergraduate at SLIIT and a freelance software developer focused on backend engineering, full-stack web applications, and applied machine learning. I build data-driven software with Java (Spring Boot), React, and Python.
 
 ---
