@@ -30,7 +30,7 @@ I am a Data Science undergraduate at SLIIT and a freelance software developer fo
 
 ## Technical Skills
 
-- **Languages:** Java, Python, JavaScript, SQL
+- **Languages:** Java, Python, JavaScript, SQL, R
 - **Data Science & ML:** scikit-learn, Pandas, NumPy, Matplotlib, Jupyter Notebook
 - **Web & Backend:** Spring Boot, Spring Security (JWT), REST APIs, React, Vite, HTML/CSS
 - **Databases:** MySQL, MS SQL Server
