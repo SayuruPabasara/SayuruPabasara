@@ -25,7 +25,6 @@ I am a Data Science undergraduate at SLIIT and a freelance software developer fo
 | [**Online Shoppers' Purchase Intention Prediction**](https://github.com/SayuruPabasara/Online-Shopping-Purchase-Intention-Prediction) | End-to-end classification and clustering pipeline on the UCI Online Shoppers dataset (12,330 sessions) using 5-fold stratified cross-validation; Random Forest achieved 0.9320 ROC-AUC and 0.7398 PR-AUC. | Python, scikit-learn, Pandas, NumPy, Matplotlib, Jupyter |
 | [**AwardHub**](https://github.com/SayuruPabasara/AwardHub) | Role-based web application for managing award events, candidate nominations, document verification, public voting, judge evaluations, and real-time analytics. | React, Vite, Java, Spring Boot, Spring Security (JWT), MySQL, MS SQL Server |
 | [**ParkNow**](https://github.com/Academic-Projects-SLIIT/ParkNow-Vehicle-parking-management-system) | Vehicle parking management system with interactive real-time slot booking and billing history for drivers, plus occupancy analytics, pricing controls, and audit logs for administrators. | Java, Spring Boot, Spring Security, JavaScript, HTML/CSS |
-| [**iLovePDF Toolkit**](https://github.com/SayuruPabasara/iLovePDFToolKit/releases/latest/download/iLovePDFTools-Setup-1.0.0.exe) | Windows right-click PDF toolkit powered by iLoveAPI for compressing, merging, and converting files directly from File Explorer. | C#, .NET, WPF, iLovePDF API |
 
 ---
 
